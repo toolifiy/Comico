@@ -1,0 +1,6 @@
+{
+  "name": "Comic & Book PDF Maker",
+  "description": "Create comic books and graphic novels from gallery images, reorder, insert between pages, and export custom-quality PDFs offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Back Page (Layered book effect) -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M38,24h38c2.2,0 4,1.8 4,4v48c0,2.2 -1.8,4 -4,4H38c-2.2,0 -4,-1.8 -4,-4V28C34,25.8 35.8,24 38,24z" />
+    
+    <!-- Front Comic Book Page -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M28,30h38c2.2,0 4,1.8 4,4v48c0,2.2 -1.8,4 -4,4H28c-2.2,0 -4,-1.8 -4,-4V34C24,31.8 25.8,30 28,30z" />
+        
+    <!-- Comic Top Panel -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,34h38v20H28z" />
+        
+    <!-- Mountain/Art in Top Comic Panel -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M32,54l8,-10 6,7 7,-10 9,13H32z" />
+        
+    <!-- Comic Bottom Left Panel -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M28,58h17v16H28z" />
+        
+    <!-- Comic Bottom Right Panel -->
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M49,58h17v16H49z" />
+        
+    <!-- Speech bubble / Art accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,62h8c1.1,0 2,0.9 2,2v4c0,1.1 -0.9,2 -2,2h-4l-3,3v-3h-1c-1.1,0 -2,-0.9 -2,-2v-4C30,62.9 30.9,62 32,62z" />
+
+    <!-- Red PDF Badge (Bottom Right) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M56,66h26c2.2,0 4,1.8 4,4v12c0,2.2 -1.8,4 -4,4H56c-2.2,0 -4,-1.8 -4,-4V70C52,67.8 53.8,66 56,66z" />
+        
+    <!-- "PDF" Stylized Text in Badge -->
+    <!-- P -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,70h4c1.1,0 2,0.9 2,2s-0.9,2 -2,2h-2v4h-2V70z M60,72v1h2c0.55,0 1,-0.45 1,-0.5s-0.45,-0.5 -1,-0.5H60z" />
+    <!-- D -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,70h3c1.7,0 3,1.3 3,3v2c0,1.7 -1.3,3 -3,3h-3V70z M68,72v4h1c0.6,0 1,-0.4 1,-1v-2c0,-0.6 -0.4,-1 -1,-1H68z" />
+    <!-- F -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,70h5v2h-3v2h2v2h-2v2h-2V70z" />
+        
+</vector>
